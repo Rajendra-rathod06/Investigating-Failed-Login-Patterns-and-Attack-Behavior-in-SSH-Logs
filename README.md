@@ -4,7 +4,7 @@ By examining SSH log data, the project demonstrates how Security Operations Cent
 
 The analysis includes identifying repeated failed login attempts, suspicious source IP addresses, targeted user accounts, login timestamps, and attack trends. The findings help improve security monitoring, incident response, and access control by enabling early detection of malicious authentication activity.
 
-Objectives
+# Objectives
 
 Understand SSH authentication and Linux authentication logs.
 Parse raw SSH logs into structured Splunk fields.
@@ -13,7 +13,7 @@ Correlate authentication events across users, hosts, and source IP addresses.
 Improve detection accuracy and reduce investigation time.
 Demonstrate a SOC-ready workflow for authentication log analysis.
 
-Key Features
+# Key Features
 
 SSH authentication log analysis
 Failed login pattern investigation
@@ -25,7 +25,7 @@ Structured field extraction using Splunk
 Security event correlation
 SOC investigation workflow
 
-Technologies Used
+# Technologies Used
 
 Splunk Enterprise
 Linux Authentication Logs (auth.log / secure)
@@ -38,7 +38,7 @@ Credential Stuffing
 User Enumeration
 Account Compromise (Failed Logins Followed by Successful Login)
 
-Skills Demonstrated
+# Skills Demonstrated
 
 SOC Monitoring
 Security Log Analysis
