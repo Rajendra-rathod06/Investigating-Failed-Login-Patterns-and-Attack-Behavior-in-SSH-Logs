@@ -38,20 +38,6 @@ Credential Stuffing
 User Enumeration
 Account Compromise (Failed Logins Followed by Successful Login)
 
-# Skills Demonstrated
-
-SOC Monitoring
-Security Log Analysis
-Threat Hunting
-Incident Investigation
-Authentication Log Analysis
-Linux Security Monitoring
-Detection Engineering
-Splunk Query Development
-Learning Outcomes
-
-This project demonstrates how structured log analysis transforms raw SSH authentication logs into actionable security insights. It highlights practical SOC techniques for detecting authentication-based attacks, correlating suspicious events, identifying compromised accounts, and improving incident response through effective log analysis and threat detection.
-
 <img width="537" height="304" alt="image" src="https://github.com/user-attachments/assets/9d8da92c-e1db-41b4-96bc-f13d9f60567a" />
 <img width="541" height="308" alt="image" src="https://github.com/user-attachments/assets/b5d7a4e6-4793-476d-a1fd-bca3ab124a05" />
 <img width="543" height="310" alt="image" src="https://github.com/user-attachments/assets/bcf7549a-5677-4fcb-874f-57cfadff094e" />
@@ -66,6 +52,20 @@ This project demonstrates how structured log analysis transforms raw SSH authent
 <img width="543" height="307" alt="image" src="https://github.com/user-attachments/assets/74aaa5ad-8b89-46fb-a152-a23cb245439d" />
 <img width="539" height="307" alt="image" src="https://github.com/user-attachments/assets/21a5d03a-e2e1-4259-86ea-d007e9d1115f" />
 <img width="542" height="307" alt="image" src="https://github.com/user-attachments/assets/1b87ce06-69de-493f-91ff-d8e1af617a89" />
+
+# Skills Demonstrated
+
+SOC Monitoring
+Security Log Analysis
+Threat Hunting
+Incident Investigation
+Authentication Log Analysis
+Linux Security Monitoring
+Detection Engineering
+Splunk Query Development
+Learning Outcomes
+
+This project demonstrates how structured log analysis transforms raw SSH authentication logs into actionable security insights. It highlights practical SOC techniques for detecting authentication-based attacks, correlating suspicious events, identifying compromised accounts, and improving incident response through effective log analysis and threat detection.
 
 
 
